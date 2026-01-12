@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGpP4lxGGgDD55u/giphy.gif" width="100" alt="Plum Logo Animation">
   
-  <h1 align="center">💜 Plum Market Analysis</h1>
+  <h1 align="center">💜Plum Market Analysis</h1>
   
   <p align="center">
     <strong>Decoding the "Goodness" | A Data-Driven Deep Dive into India's Favorite Vegan Beauty Brand</strong>
