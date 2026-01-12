@@ -45,7 +45,7 @@ Here’s a sneak peek of what the notebooks reveal:
 | Analysis Module | Description |
 | :--- | :--- |
 | **The Goodness Graph** | Visualization of Plum's revenue growth vs. competitors over the last 3 years. |
-| **Sentiment Cloud** | NLP analysis of customer reviews. (Spoiler: People *love* the Green Tea range 🍵). |
+| **Sentiment Cloud** | NLP analysis of customer reviews.(Spoiler: People *love* the Green Tea range 🍵). |
 | **Price Wars** | A comparative study of pricing strategies across the "Clean Beauty" sector. |
 | **SWOT It Out** | A detailed Strength, Weakness, Opportunity, and Threat matrix based on market data. |
 
